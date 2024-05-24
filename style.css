@@ -1,0 +1,42 @@
+
+
+
+.stApp {
+    background-color:  #9dc183; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+    width: 55%;  
+    margin: 40px auto;    
+    box-sizing: border-box; 
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: green; 
+}
+
+label {
+    font-size: medium;
+    color: white; 
+}
+
+p,li{
+    color: #000000;
+}
+
+input[type="text"] {
+    background-color: #FFFFFF; 
+    color: #333333;     
+    border: 0; 
+    padding: 10px; 
+}
+
+button[kind="primary"]{
+    background-color: #2E8B57;
+    color: white;
+    border: 0;
+}
+
+input[type="label"]{
+    color: green;
+}
